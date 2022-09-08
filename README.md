@@ -1,8 +1,8 @@
 ## Reference repo:
-https://github.com/c17hawke/dvc-ML-demo-AIOps
+https://github.com/GirishHiremath/dvc_ml-AIops
 
 ## wokflow -
-<img src="others/images/simple-workflow-01@2x.png" alt="workflow" width="70%">
+<img src="others/images/dvc_flow.png" alt="workflow" width="70%">
 
 # STEPS:
 ## STEP 01: Create a empty remote repository
